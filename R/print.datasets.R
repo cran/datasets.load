@@ -5,6 +5,5 @@
 #' @export
 
 print.datasets <- function(x, ...) {
-
   View(x, title='datasets')
 }
