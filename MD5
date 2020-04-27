@@ -1,5 +1,6 @@
-38febf04314fd2b545dcc6b10ea4f942 *DESCRIPTION
+810641da96e46780795bea481a85c9f8 *DESCRIPTION
 6b957e96d783ece9fa64022533fe2714 *NAMESPACE
+4b493c401d6d9ae2e05187f3ff4c07f8 *NEWS.md
 69fa27062b886cfeecfd2fb8bf54a29b *R/alldata.R
 31020fc3399b94df4db68d365273e0b9 *R/browseDatasets.R
 517ecaafc8e39169949c58b23b00a323 *R/datasets.R
@@ -9,14 +10,13 @@ d56f46b03bf2f1bdf41721499d258c45 *R/getDatasetInfo.R
 0b0f7d6d631c002b6838cb5ffd393f28 *R/print.datasets.R
 76d56c8bb1ac84b5590a0b5cca513bda *R/printDatasets.R
 41d0d5b5084f9b31108adba0cdd0a9a7 *R/promptDatasets.R
-ebd89ac099c3eea44278172ecdab469b *README.md
+f685c506e784c42847e1ea1a691b8ee5 *README.md
 3187aeef298878e731852dc64b6a1aed *inst/rstudio/addins.dcf
 200203df2ab3c6544ada8feb6b8ca499 *man/alldata.Rd
 e98662ae1e3984989a8bdf4157865e19 *man/browseDatasets.Rd
 4e95dfced1f701e2849639fec527e605 *man/datasets.Rd
 13bc263fbc4f73fd5c9af5b2aa9e668d *man/datasets.load-package.Rd
 8d471b3a866c56f68505e192e8b88030 *man/datasets.load.Rd
-0e872aedec0a4eac65ab323c9b1675d7 *man/figures/datasets.load.gif
 6bfc62214d40172682f23c7d983526a1 *man/getDatasetInfo.Rd
 73bfa14bdcd7f575d63a45247ac3fce4 *man/print.browseDatasets.Rd
 8e5eeb532df74423057d8f00c64dfc52 *man/print.datasets.Rd
