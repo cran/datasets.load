@@ -1,4 +1,4 @@
-1dab1542ade7227148f43108045e3b32 *DESCRIPTION
+f15c89860420d7483540893484a0bdf2 *DESCRIPTION
 6b957e96d783ece9fa64022533fe2714 *NAMESPACE
 12a7b23215120f02abfd9b2b1204df9d *NEWS.md
 69fa27062b886cfeecfd2fb8bf54a29b *R/alldata.R
@@ -23,4 +23,4 @@ cce28895f4ce96fb8616c99d2195c306 *man/datasets.Rd
 4d805de859534a14173476602a7100f8 *man/printDatasets.Rd
 70dbfbed7753f3cf617f48e96cb83029 *man/promptDatasets.Rd
 d2c1812cbff7868b5e4b03150d38f722 *tests/testthat.R
-ef0ee0bbf068a584b2efc6419cfa89d5 *tests/testthat/test-datasets.load.R
+598a648ca02a3cb82a3f94ffa7d1c502 *tests/testthat/test-datasets.load.R
